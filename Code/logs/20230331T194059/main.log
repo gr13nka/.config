@@ -1,0 +1,6 @@
+2023-03-31 19:40:59.724 [info] update#setState idle
+2023-03-31 19:41:01.169 [info] Starting extension host with pid 4543 (fork() took 12 ms).
+2023-03-31 19:41:29.725 [info] update#setState checking for updates
+2023-03-31 19:41:29.732 [info] update#setState available for download
+2023-04-01 00:06:23.076 [info] Waiting for extension host with pid 4543 to exit.
+2023-04-01 00:06:23.089 [info] Extension host with pid 4543 exited with code: 0, signal: null.

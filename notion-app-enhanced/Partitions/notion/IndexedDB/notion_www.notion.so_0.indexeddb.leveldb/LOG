@@ -1,0 +1,25 @@
+2023/04/24-09:32:01.130 e3 Reusing MANIFEST /home/username/.config/notion-app-enhanced/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/24-09:32:01.130 e3 Recovering log #130
+2023/04/24-09:32:01.159 e3 Reusing old log /home/username/.config/notion-app-enhanced/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000130.log 
+2023/04/24-09:32:02.015 e3 Level-0 table #136: started
+2023/04/24-09:32:02.034 e3 Level-0 table #136: 1590724 bytes OK
+2023/04/24-09:32:02.038 e3 Delete type=0 #130
+2023/04/24-09:32:02.352 e4 Compacting 1@1 + 2@2 files
+2023/04/24-09:32:02.402 e4 Generated table #137@1: 11473 keys, 2196455 bytes
+2023/04/24-09:32:02.435 e4 Generated table #138@1: 20260 keys, 1316629 bytes
+2023/04/24-09:32:02.435 e4 Compacted 1@1 + 2@2 files => 3513084 bytes
+2023/04/24-09:32:02.440 e4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/04/24-09:32:02.440 e4 Delete type=2 #136
+2023/04/24-09:32:02.440 e4 Delete type=2 #132
+2023/04/24-09:32:02.440 e4 Delete type=2 #133
+2023/04/24-09:34:51.562 e Level-0 table #140: started
+2023/04/24-09:34:51.582 e Level-0 table #140: 1421369 bytes OK
+2023/04/24-09:34:51.586 e Delete type=0 #135
+2023/04/24-09:35:01.542 e Compacting 1@1 + 2@2 files
+2023/04/24-09:35:01.591 e Generated table #141@1: 11746 keys, 2198196 bytes
+2023/04/24-09:35:01.626 e Generated table #142@1: 20584 keys, 1349268 bytes
+2023/04/24-09:35:01.626 e Compacted 1@1 + 2@2 files => 3547464 bytes
+2023/04/24-09:35:01.629 e compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/04/24-09:35:01.629 e Delete type=2 #138
+2023/04/24-09:35:01.629 e Delete type=2 #137
+2023/04/24-09:35:01.629 e Delete type=2 #140

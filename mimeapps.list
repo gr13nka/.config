@@ -1,0 +1,10 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-KLWV11.desktop
+text/html=notion-app-enhanced.desktop
+x-scheme-handler/notion=notion-app-enhanced.desktop
+x-scheme-handler/magnet=userapp-transmission-gtk-JF8I21.desktop
+text/x-processing=processing-pde.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-KLWV11.desktop;
+x-scheme-handler/magnet=userapp-transmission-gtk-JF8I21.desktop;

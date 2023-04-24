@@ -1,0 +1,3 @@
+2023-03-23 17:20:12.273 [info] [perf] Render performance baseline is 67ms
+2023-03-23 17:20:22.238 [info] [perf] Render performance baseline is 34ms
+2023-03-23 17:35:57.387 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: application.experimental.rendererProfiling
