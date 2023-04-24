@@ -1,3 +1,9 @@
-notion-app-enhanced/*
-libreoffice/*
-
+notion-app-enhanced/
+libreoffice/
+menus/
+gtk-4.0/
+gtk-3.0/
+gtk-2.0/
+gtk-1.0/
+Code/
+discord/
